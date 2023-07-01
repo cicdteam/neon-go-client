@@ -1,0 +1,8 @@
+package: neon
+generate:
+  client: true
+  models: true
+output-options:
+  exclude-tags:
+  - Preview
+output: main.go
