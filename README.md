@@ -1,6 +1,7 @@
 # Go cleint for Neon Postgres SaaS Platform
 
-...details will be soon
+TL;DR - please use https://github.com/kislerdm/neon-sdk-go as fuul featured client
+
 
 ## Generate client
 
